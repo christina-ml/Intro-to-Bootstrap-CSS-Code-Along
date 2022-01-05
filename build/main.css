@@ -18,5 +18,9 @@ nav {
 }
 
 img {
-  width: 100px;
+  /* width: 100px; */
+}
+
+#hero img {
+  opacity: 0.6;
 }
